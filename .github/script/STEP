@@ -26,4 +26,3 @@ const car = {type:"Fiat", model:"500", color:"white"};
 - [x] List syntax is required
 - [x] This item is complete
 - [ ] This item is not complete
-
