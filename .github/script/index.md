@@ -20,3 +20,10 @@ Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.gi
 ```js
 const car = {type:"Fiat", model:"500", color:"white"};
 ```
+
+###### You can also add Task lists: 
+
+- [x] List syntax is required
+- [x] This item is complete
+- [ ] This item is not complete
+
